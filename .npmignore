@@ -1,0 +1,9 @@
+node_modules
+npm-debug.log
+.gitignore
+tsconfig.json
+.DS_Store
+.idea
+*.ts
+*.js.map
+!*.d.ts
