@@ -2368,3 +2368,4 @@ namespace tmp {
 export const google = {
     maps: tmp
 };
+global['google'] = google;
